@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of Queen Mary's methods for introducing popery, and procuring a Parliament to confirm it seasonable to be published in this time of imminent danger and dedicated to the Right Honourable the Earl of Shaftsbury.</title>
+            <author>T. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58691</idno>
+            <idno type="STC">Wing S150</idno>
+            <idno type="STC">ESTC R8480</idno>
+            <idno type="EEBO-CITATION">11904452</idno>
+            <idno type="OCLC">ocm 11904452</idno>
+            <idno type="VID">50641</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58691)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50641)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 509:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of Queen Mary's methods for introducing popery, and procuring a Parliament to confirm it seasonable to be published in this time of imminent danger and dedicated to the Right Honourable the Earl of Shaftsbury.</title>
+                  <author>T. S.</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Gay ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Epistle dedicatory signed: T.S.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary --  I, --  Queen of England, 1516-1558.</term>
+               <term>Catholics --  England.</term>
+               <term>Great Britain --  History --  Mary I, 1553-1558.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50641:1"/>
+            <pb facs="tcp:50641:1"/>
+            <p>AN ACCOUNT OF Queen <hi>MARY</hi>'s Methods For Introducing <hi>POPERY,</hi> And procuring a PARLIAMENT To Confirm it.</p>
+            <p>Seaſonable to be publiſhed in this Time of Imminent Danger. AND Dedicated to the Right Honourable the EARL of SHAFTSBURY.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Gay,</hi> at the <hi>Flying-Horſe</hi> between St <hi>Dun<g ref="char:EOLhyphen"/>ſtans</hi> Church and <hi>Chancery lane</hi> in <hi>Fleet-ſtreet,</hi> 1681.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:50641:2"/>
+            <pb facs="tcp:50641:2"/>
+            <head>TO THE Right Honourable ANTHONY EARL of SHAFTSBVRY, &amp;c.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>IT is (I confeſs) a great preſumption to prefix your Lordſhips Name to ſo ſmall a Treatiſe; but ſince the Deſign of it is to inform all true <hi>Engliſh</hi> Men of what Ways the <hi>Papiſts</hi> uſed in endeavour<g ref="char:EOLhyphen"/>ing to bring their <hi>Religion</hi> into <hi>England,</hi> that they may be prevented in all their <hi>De<g ref="char:EOLhyphen"/>ſigns;</hi> I hope your Lordſhip will pardon this boldneſs in me. And, my Lord, I believe the <hi>Engliſh</hi> Nation, have ſo great a Reverence for your Lordſhip, that they will the better e<g ref="char:EOLhyphen"/>ſteem
+<pb facs="tcp:50641:3"/>this Piece for your Lordſhips Name be<g ref="char:EOLhyphen"/>ing ſet before it; becauſe they will imagine that none durſt have preſumed to have laid it at your Feet, unleſs it were agreeable to your Sentiments.</p>
+            <p>My Lord, I think nothing of this kind was ever yet printed, which was a great Mo<g ref="char:EOLhyphen"/>tive to me to publiſh it; who am</p>
+            <closer>
+               <salute>My Lord,</salute> 
+               <signed>Your Lordſhips moſt Humble Servant <hi>T. S.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:50641:3"/>
+            <head>AN ACCOUNT OF Queen <hi>MARY</hi>'s Methods For Introducing POPERY.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Everal Perſons of great Worth and Learning have already given Account of the great Cruelties that have been Exerciſed by <hi>Papiſts</hi> on <hi>Pro<g ref="char:EOLhyphen"/>teſtants,</hi> an ſome particu<g ref="char:EOLhyphen"/>larly have wrote of the Diſ<g ref="char:EOLhyphen"/>mal Condition of the <hi>Re<g ref="char:EOLhyphen"/>formed Chriſtians</hi> in <hi>Queen Maries</hi> days; but none have yet, as I remember, acquainted the World with the Methods Queen <hi>Mary</hi> uſed to introduce Popery, which was at her coming to the Crown in a fair way of being Extirpated. And Conſider<g ref="char:EOLhyphen"/>ing that the diſcovering of a Rock on which ſome have formerly ſplit, may be of great uſe for o<g ref="char:EOLhyphen"/>thers
+<pb n="2" facs="tcp:50641:4"/>to avoid it, I have undertaken to give you this Following Account.</p>
+            <p>
+               <hi>Henry</hi> the Eighth, King of <hi>England,</hi> having left the Kingdom of <hi>England</hi> in great peace and in a fair way to ſhake off the burthenſome Yoke of <hi>Rome, Edward</hi> the 6th his Son ſucceeded him, and Prince ſo hopeful, that in ſix years time he had almoſt per<g ref="char:EOLhyphen"/>fected the Good Work begun by his Father King <hi>Henry,</hi> but unkind death ſnatch'd him away on the 6th of <hi>July</hi> 1553, in the 16th year of his Age, whoſe death was much lamented through<g ref="char:EOLhyphen"/>out the Nation; moſt people Prophetically Preſag<g ref="char:EOLhyphen"/>ing the misfortunes which were coming on them. After which the Duke of <hi>Northumberland</hi> cauſed his Daughter the Lady <hi>Jane</hi> to be Proclaimed Queen, but her Reign laſted only ten days; for the Council turning to the Lady <hi>Mary</hi> in the latter end of <hi>July</hi> 1553, cauſed her to be Proclaimed Queen of <hi>England</hi> in <hi>London</hi> and other parts of the Realm; upon which ſhe removed from her Caſtle of <hi>Fram<g ref="char:EOLhyphen"/>lingham</hi> towards <hi>London,</hi> and being come to <hi>War<g ref="char:EOLhyphen"/>ſted</hi> in <hi>Eſſex,</hi> on the Thirtieth of <hi>July</hi> the Lady <hi>Eliza<g ref="char:EOLhyphen"/>beth</hi> her Siſter, with a Train of a Thouſand Horſe, went from her place in the <hi>Strand,</hi> to meet her. On the Third of <hi>Auguſt</hi> the Queen rode through <hi>Lon<g ref="char:EOLhyphen"/>don</hi>
+               <pb n="3" facs="tcp:50641:4"/>to the <hi>Tower,</hi> where ſhe ſet free <hi>Steven Gardiner,</hi> late Biſhop of <hi>Wincheſter,</hi> and reſtored him to his Biſhoprick. On the Fifth of <hi>Aguſt Edmond Bon<g ref="char:EOLhyphen"/>ner</hi> late Biſhop of <hi>London,</hi> Priſoner in the <hi>Mar<g ref="char:EOLhyphen"/>ſhallſey,</hi> and <hi>Cuthberd Tunſtal,</hi> the Old Biſhop of <hi>Durham,</hi> Priſoner in the <hi>Kings-Bench,</hi> had then Par<g ref="char:EOLhyphen"/>dons and were reſtored to their Sees.</p>
+            <p>
+               <q>On the Twelfth of <hi>Auguſt</hi> the Queen made an open Declaration in Council, That tho her Con<g ref="char:EOLhyphen"/>ſcience was ſtaid in Matters of Religion, yet ſhe would not reſtrain or compel others, otherwiſe then as God ſhould put into their Hearts to em<g ref="char:EOLhyphen"/>brace that Religion ſhe was in; which ſhe hoped would be done by putting of Godly and Virtuous Men into Livings to Preach the Word of God.</q>
+            </p>
+            <p>Upon this all Parties hoped for a Tolleration to Worſhip God their own way, but the <hi>Papiſts</hi> pre<g ref="char:EOLhyphen"/>ſuming upon the Queen being of their Religion, openly commended their own Religion, and reproached the Reformed: So that on the Thir<g ref="char:EOLhyphen"/>teenth, one <hi>Bourn</hi> Canon of <hi>Pauls,</hi> Preaching at <hi>Pauls Croſs,</hi> not onely Prayed for the Dead, but Declared that Dr. <hi>Bonner</hi> Biſhop of <hi>London,</hi> (late reſtored and then in preſence) for a Sermon
+<pb n="4" facs="tcp:50641:5"/>by him made four years before on the ſame Text, and in the ſame place, had been unjuſtly caſt into the <hi>Marſhallſeas;</hi> which ſpeech ſo offended the people, who had a great Veneration for the good King <hi>Edward,</hi> that a great diſturbance aroſe and a Dagger was thrown at him, but he with much difficulty was conveyed into <hi>Pauls</hi> School by Mr. <hi>Rogers,</hi> whilſt Mr. <hi>Bradford</hi> ſtept into the Pulpit and appeaſed the people. This being repeated to the Queen, ſhe makes another Declaration, That ſhe would have all her Subjects live in Amity, and charged them not to uſe the words <hi>Papiſt</hi> or <hi>Here<g ref="char:EOLhyphen"/>tick.</hi>
+            </p>
+            <p>Shortly after, all the <hi>Biſhops</hi> which had been de<g ref="char:EOLhyphen"/>prived in the time of King <hi>Edward</hi> the Sixth, were reſtored to their Biſhopricks, and the new removed; alſo all Beneficed men, that were married and would not renounce their Religion, were put out of their Livings, and others of a Contrary Opinion were put into their room.</p>
+            <p>Theſe men, when reſtored, urge the Queen to re-eſtabliſh Popery, whom ſhe anſwers, That ſhe deſigns nothing more, yet muſt act with ſo much caution as not to inflame her Reformed Subjects.
+<pb n="5" facs="tcp:50641:5"/>In the mean time private Cabals were held by the Queen and ſome of the moſt vigorous Papiſts, and after ſeveral Conſultations it was fully reſolved that Popery ſhould be ſuddenly reſtored.</p>
+            <p>On the Nineteenth of <hi>Auguſt, John</hi> Duke of <hi>Nor<g ref="char:EOLhyphen"/>thumberland</hi> (who profeſſed himſelf a Proteſtant in King <hi>Edwards</hi> time, and perſwaded the King to de<g ref="char:EOLhyphen"/>clare his Daughter the Lady <hi>Jane</hi> his Succeſſor) was tryed and condemned for High Treaſon, and on the Two and twentieth executed; and at his death declared himſelf a Papiſt, and to have been ſo always (by which you may note what Temporizers Papiſts are, who can ſeem to be any thing for Intereſt.)</p>
+            <p>Now things ſeeming to be a little ſettled, the Queen thinks it convenient to make another ſtep towards Popery, which is by a Proclamation to pro<g ref="char:EOLhyphen"/>hibit Preaching; it being certain that when man is ignorant, he is ready to embrace any Novelty; not being capable of conſidering whether it be good or evil. Many Cenſures paſt upon this Proclama<g ref="char:EOLhyphen"/>tion, but none durſt openly teſtify their reſentment, for fear of being clapt up; and though the Queen ſeemed to carry all things fair, yet ſome of the wi<g ref="char:EOLhyphen"/>ſeſt
+<pb n="6" facs="tcp:50641:6"/>of the Reformed (being ſenſible that Perſecuti<g ref="char:EOLhyphen"/>on was coming on them) held ſeveral Conſultati<g ref="char:EOLhyphen"/>ons, but their Conſciences will not let them rebel againſt their Soveraign; yet on the Fiftteenth of <hi>September</hi> Arch-biſhop <hi>Cranmer</hi> couragiouſly de<g ref="char:EOLhyphen"/>clares againſt the Maſs, of which <hi>Bonner</hi> makes uſe to Inflame the Queen againſt him, and within two or three days <hi>Cranmer</hi> and <hi>Latimer</hi> are ſent to the <hi>Tower;</hi> upon it ſeveral Reformed Chriſtians fly be<g ref="char:EOLhyphen"/>yond Sea.</p>
+            <p>The Queen, who had all this while contented her ſelf with being Queen, by Proclamation, ſeeing thing ſomething ſettled, proceeds to her Corona<g ref="char:EOLhyphen"/>tion, which was accordingly ſplendidly performed on the laſt of <hi>September.</hi> After which ſhe diſcharges a Tax, publiſhed a general Pardon, but interlac'd with ſo many Exceptions of Matters and Perſons, that very few took benefit of it; and thoſe that did were by the Commiſſioners aſſigned to compound with them, deſpoil'd of Offices and Eſtates.</p>
+            <p>Soon after this Juſtice <hi>Hales</hi> was Impriſon'd, for that at a Quarter Seſſions in <hi>Kent</hi> he gave charge upon the Statutes of <hi>Henry</hi> the Eighth and <hi>Edward</hi> the Sixth, in Derogation of the Primacy of the
+<pb n="7" facs="tcp:50641:6"/>Church of <hi>Rome,</hi> which was a high ingratitude in the Queen; he having in King <hi>Edwards</hi> time refuſed to ſign a Warrant for Diſinheriting the Lady <hi>Mary</hi> and Lady <hi>Elizabeth.</hi>
+            </p>
+            <p>On the Tenth of <hi>October,</hi> the Queen ſummons a Parliament, and Members are choſe by force and threats in ſome places, and in others thoſe im<g ref="char:EOLhyphen"/>ployed by the Court, did by violence hinder the people from coming in to chuſe; in many places falſe Returns were made, and when the Parliament met, ſome were violently turn'd out of the Houſe. Several Biſhops were thruſt out of the Houſe of Lords for not Worſhipping the Maſs, and ſoon af<g ref="char:EOLhyphen"/>ter impriſoned.</p>
+            <p>On the Third of <hi>November Cranmer</hi> was arraign<g ref="char:EOLhyphen"/>ed in <hi>Weſtminſter-Hall,</hi> and found guilty of High-Treaſon (which by the way note was only for not Worſhipping Maſs, tho other things were alledged againſt him) and was condemned to die.</p>
+            <p>After which an Act was made for repealing the Law made by King <hi>Edward touching Religion</hi> (ſee what a Parliament can do when one is pickt out for the purpoſe) then they paſſed another Act
+<pb n="8" facs="tcp:50641:7"/>for preventing affronts to Popiſh Prieſts, who then began mightily to appear. Then another Act was paſſed for preventing unlawful Aſſemblies, which was meant the meeting of the Reformed Proteſtants.</p>
+            <p>The Queen having brought things to this point, begins to ſhew her ſelf more openly, and publickly declares her reſolution of being reconciled to the See of <hi>Rome,</hi> and accordingly ſends <hi>Cardinal Pool</hi> to the <hi>Pope</hi> for his Bleſſing and Directions; but he was ſtopt by the Emperor as he was on his Jour<g ref="char:EOLhyphen"/>ney, but the Queen ſending to the Emperor to de<g ref="char:EOLhyphen"/>ſire him not to hinder, <hi>Cardinal Pool</hi> went on his Journey.</p>
+            <p>In the mean while <hi>Gardiner</hi> at home propoſes to the Queen the ſeveral methods for rooting out the Reformed Religion, which are excepted of, but not put in execution, till other neceſſaries are diſpatcht; <hi>viz.</hi> the match with Prince <hi>Philip</hi> of <hi>Spain,</hi> which Match the Houſe of Commons diſliked; alledging that it would bring <hi>England</hi> under a forreign yoke: and ſince the Commons cannot be perſwaded to conſent to it, the Parliament is Diſ<g ref="char:EOLhyphen"/>ſolved) the conſtant practice, when they would
+<pb n="9" facs="tcp:50641:7"/>not do what they thought deſtructive to the Na<g ref="char:EOLhyphen"/>tion) and a new one pickt out (by the former me<g ref="char:EOLhyphen"/>thods) to agree to the Match; they were ſuch men as could be bribed to do any thing the Queen would have them, for there were 1200000 Crowns ſent from <hi>Spain</hi> to corrupt them. They Confirm the Marriage, ſet up the Maſs, and concurr with the Queen in all Acts for Perſecuting the <hi>Proteſtants;</hi> but thanks be to God we are not now in danger of ſuch Parliaments, peoples underſtandings being e<g ref="char:EOLhyphen"/>very where enlightned, and the whole Nation ſen<g ref="char:EOLhyphen"/>ſible of what will be the Conſequence of ſuch Par<g ref="char:EOLhyphen"/>liaments who ſhall concurr with a Popiſh King, for deſtroying the Lives, Liberties, and Properties of thoſe that are of the Proteſtant Religion. A Religi<g ref="char:EOLhyphen"/>on which authorizes not Murders and Rapines, that teacheth the way to Heaven, by Meekneſs and Hu<g ref="char:EOLhyphen"/>mility, by Loyalty and Faithfulneſs to their Prince, and Love to one another. But on the contrary, the Popiſh Religion pretends to Convert people by Gaols, Fire, and Faggot. The firſt Inſtance of which in this Queens Reign is <hi>Cranmer, Ridley,</hi> and <hi>Lati<g ref="char:EOLhyphen"/>mer</hi> (Three Reformed Biſhops) being adjudged Hereticks and condemned to die. After which follows the burning of <hi>Rogers</hi> a Miniſter, <hi>Hooper</hi> and <hi>Farrar,</hi> two Bishops, and <hi>Bradford</hi> another Mi<g ref="char:EOLhyphen"/>niſter.</p>
+            <p>
+               <pb n="10" facs="tcp:50641:8"/>
+On the 25th of <hi>July</hi> 1554, Prince <hi>Philip</hi> comes to <hi>Wincheſter,</hi> attended by ſeveral Nobles who were ſent to <hi>Spain</hi> to fetch him; and on the 25th the Marriage was ſolemnized there. An infinite number of Papiſts of all Countries came over with him. The King and Queen ſend for Cardinal <hi>Pool</hi> from <hi>Rome,</hi> who being come, his Attainder was taken off, and he makes a Speech to the Parliament, exhorting them wholly to the Mother Church, upon which they deſire pardon, and repent of their former er<g ref="char:EOLhyphen"/>rors, and profeſs themſelves ready to abrogate all Laws prejudicial to the See of <hi>Rome;</hi> upon which he gives them and the whole Nation Abſolution. In <hi>March</hi> the Queen delivers up all the Abby Lands, and leaves them to the diſpoſal of the <hi>Pope</hi> and his Legate; ſo that by this Gentlemen may ſee what they are to expect from a Popiſh Prince, <hi>viz.</hi> to have all their Eſtates taken away, their Families ruin'd, and even ſuffer the loſs of their Lives at his pleaſure—</p>
+            <p>Soon after this <hi>Ridley, Latimer,</hi> and <hi>Cranmer,</hi> are burnt, with Thouſands all over <hi>England,</hi> the repe<g ref="char:EOLhyphen"/>tition of who they were and where executed, I ſhall not trouble you, ſince publiſhed at large in <hi>Fox;</hi> I
+<pb n="11" facs="tcp:50641:8"/>ſhall onely beg every honeſt Engliſh-man who is willing to ſerve his God in Peace, and injoy the Privi<g ref="char:EOLhyphen"/>ledges which God and the Laws hath given him, to conſider how ſad the change of the preſent Re<g ref="char:EOLhyphen"/>ligion and Government would be, when it ſhall lie in the power of the Pope to order the De<g ref="char:EOLhyphen"/>ſtruction of Proteſtants, and a Popiſh Prince think himſelf obliged to execute ſuch his Holineſs Or<g ref="char:EOLhyphen"/>ders; when we who are free-born Engliſh-men, ſhould be Prieſt-ridden, when thoſe that will not rack their Conſcience to ſave their Eſtates and Lives, ſhall be murdered. For ſuch and much worſe, will be certainly the conſequence of Pope<g ref="char:EOLhyphen"/>ry, ſince all their Learned Authors do publiſh, That every man is obliged to Convert or Confound Hereticks; and 'tis by that name they ſtile us. Let us reflect a little upon the late Deſigns of the Papiſts, Was not the Scene of Converting <hi>England</hi> to be laid in blood, of even the King himſelf (who hath been ſo favourable to them) as well as of all the Proteſtants in <hi>England?</hi> Nay they intended to have cut off even the Duke himſelf, upon whom they built all their hopes, if he ſhould not abſolute<g ref="char:EOLhyphen"/>ly hold his Crown from the Pope? What care ought then to be taken for preventing the Deſigns of ſuch men, how diligent ought we to be in Counter<g ref="char:EOLhyphen"/>plotting,
+<pb n="12" facs="tcp:50641:9"/>how Induſtrious ought we to be in chuſing good Members for Parliment, who if bad can make ſuch a Figure in altering the Government, and bringing the Countrey to Deſtruction? How ought we to amend our Lives and live anſwerable to Gods great Mercies hitherto beſtowed upon us, and ſend up our Hearty Prayers that God would continue his Majeſties Life to us, and Deſtroy and Confound all his and the Nations Enemies, and give a Bleſſing to the Endeavours of the approach<g ref="char:EOLhyphen"/>ing Parliament, that the fears of the people may be quieted and a hearty Union between his Majeſty and the Nation may be fully compleated?</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
